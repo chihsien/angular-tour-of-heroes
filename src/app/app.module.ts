@@ -26,4 +26,6 @@ import { AppRoutingModule }     from './app-routing.module';
   providers: [HeroService],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {  
+  
+ }
